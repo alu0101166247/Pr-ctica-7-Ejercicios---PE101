@@ -1,3 +1,1 @@
-# > git remote add origin https://LINK
-
-# > git push --all origin
+# Practica 7 - Presencial PE 101 Adapter
